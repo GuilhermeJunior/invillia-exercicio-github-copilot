@@ -1,3 +1,5 @@
+# Congratulations
+
 # API de Atividades da Escola Secundária Mergington
 
 Uma aplicação extremamente simples usando FastAPI que permite aos estudantes visualizar e se inscrever em atividades extracurriculares.
